@@ -8,3 +8,6 @@ government-provided information. Using this source of truth, we can then label f
 information in other outlets to be conflicting or aligned with the source. Each conflict
 will be penalized and each alignment rewarded - thus contributing to a source-specific
 “truth score” as a result for each source.
+
+Learn more at: https://docs.google.com/document/d/1kBd0HbxXhroNaY7ho4WQk9w2MjD0sZcuksCGMA3iJ60/edit?usp=sharing
+See the notebook here: https://colab.research.google.com/drive/1qvIJVg0DtFLzR_o6Mo93AGm_GdWsv7Mr?usp=sharing 
